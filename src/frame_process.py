@@ -14,6 +14,7 @@ def process(obs):
 def stack_frames(frames, state, is_new=False):
     """
     For the game environment, we want to stack the four frames of the last four actions.
+    This is in accordance to the setup the DeepMind team used
     """
     frame = process(state)
     

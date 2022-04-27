@@ -1,5 +1,6 @@
 import torch
 
+#our PPO implementation follows the Actor-critic framework which also uses the parameters by DeepMind
 class Actor(torch.nn.Module):
     def __init__(self, input_shape, action_size):
         super(Actor, self).__init__()

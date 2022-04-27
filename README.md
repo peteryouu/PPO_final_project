@@ -4,7 +4,7 @@ The original paper for implementation is found here: https://arxiv.org/abs/1707.
 
 # Environment
 
-The code was done in Jupyter Notebooks, and converted into Python files. The training was done over a Ryzen 5900x CPU and over Python 3.8 
+The code was initially written in Jupyter Notebooks, and converted into Python files. The training was done over a Ryzen 5900x CPU and over Python 3.8 
 
 ## Training PPO on Atari
 

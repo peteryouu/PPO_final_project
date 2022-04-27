@@ -26,4 +26,4 @@ The code was initially written in Jupyter Notebooks, and converted into Python f
 1. https://blog.varunajayasiri.com/ml/ppo.html
 2. https://towardsdatascience.com/optimized-deep-q-learning-for-automated-atari-space-invaders-an-implementation-in-tensorflow-2-0-80352c744fdc
 3. https://arxiv.org/abs/1707.06347
-4. https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/ping_pong_ppo.ipynb
+4. https://github.com/deepanshut041/Reinforcement-Learning/blob/master/cgames/01_ping_pong/

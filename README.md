@@ -2,6 +2,10 @@
 
 The original paper for implementation is found here: https://arxiv.org/abs/1707.06347
 
+# Environment
+
+The code was done in Jupyter Notebooks, and converted into Python files. The training was done over a Ryzen 5900x CPU and over Python 3.8 
+
 ## Training PPO on Atari
 
 1. Clone or download this repo

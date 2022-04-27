@@ -8,7 +8,7 @@ The original paper for implementation is found here: https://arxiv.org/abs/1707.
 
 2. Unzip the downloaded folder
 
-3.go to root directory of project and open up Command Prompt in the directory and run:
+3. Go to root directory of project and open up Command Prompt in the directory and run:
 
 4. pip install -r requirements.txt
 

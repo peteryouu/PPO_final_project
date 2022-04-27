@@ -1,4 +1,8 @@
-# PPO_final_project
+# Evaluating Proximity Policy Optimization Algorithms on Atari Environments
+
+The original paper for implementation is found here: https://arxiv.org/abs/1707.06347
+
+## Training PPO on Atari
 
 Clone the repo, go to root directory of project run:
 

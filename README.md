@@ -4,11 +4,17 @@ The original paper for implementation is found here: https://arxiv.org/abs/1707.
 
 ## Training PPO on Atari
 
-Clone the repo, go to root directory of project run:
+1. Clone or download this repo
 
-pip install -r requirements.txt
+2. Unzip the downloaded folder
 
-unzip the ROMs.zip at root directory
+3.go to root directory of project and open up Command Prompt in the directory and run:
 
-run python -m atari_py.import_roms .\ROMS\ROMS in command line
+4. pip install -r requirements.txt
+
+5. Unzip the ROMs.zip at the same root directory
+
+6. Run python -m atari_py.import_roms .\ROMS\ROMS in command line
+
+7. Run the code via python train.py
 
